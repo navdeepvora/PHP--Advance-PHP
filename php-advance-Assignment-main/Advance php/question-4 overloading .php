@@ -1,0 +1,2 @@
+overloading
+   => Function overloading in PHP is used to dynamically create properties and methods. These dynamic entities are processed by magic methods which can be used in a class for various action types. Function overloading contains same function name and that function performs different task according to number of arguments    
